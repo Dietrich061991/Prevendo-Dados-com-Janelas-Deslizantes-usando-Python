@@ -1,1 +1,2 @@
 # Prevendo-Dados-com-Janelas-Deslizantes-usando-Python
+Você vai aprender como fazer Walk-Forward. Walk-forward significa "andar para a frente" iremos aplicar isso com um modelo de médias móveis para prever vendas. Você pode aplicar em qualquer modelo, seja usando Machine Learning ou métodos estatísticos. Independente de qual seja o seu modelo, esta técnica irá permitir você treinar e testar os dados a medida que avança na linha do tempo
